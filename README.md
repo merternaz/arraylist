@@ -1,0 +1,2 @@
+# arraylist
+# www.patika.dev
